@@ -21,4 +21,4 @@ TO RUN CODE:
 (IF USING JUPYTER NOTEBOOK) please refer the .ipynb file titled 'Cryptocurrency Analysis' 
 
 3/3
-(FOR DATA ANALYSIS VISUALIZATION) Text documentation and presentation of findings from the code 
+(FOR DATA ANALYSIS VISUALIZATION) please refer to file titled 'Verbal Visual Analysis' for text documentation and presentation of findings from the code 
